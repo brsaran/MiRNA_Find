@@ -1,0 +1,449 @@
+########################################
+# Program: water
+# Rundate: Tue  7 Mar 2017 14:09:13
+# Commandline: water
+#    -asequence in1
+#    -bsequence input
+# Align_format: srspair
+# Report_file: bna-mir167b-5.water
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: bna-miR167b-5
+# 2: 110812176
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 31
+# Identity:      12/31 (38.7%)
+# Similarity:    17/31 (54.8%)
+# Gaps:          13/31 (41.9%)
+# Score: 36.5
+# 
+#
+#=======================================
+
+bna-miR167b-5      2 GAAGCUGCCAGCAUGA-----UC-----UUA     22
+                     ||||.:  ||| |:||     :|     ::|
+110812176        143 GAAGTT--CAG-ATGACAAACTCAGAAATTA    170
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: bna-miR167b-5
+# 2: 134092926
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 37
+# Identity:      12/37 (32.4%)
+# Similarity:    18/37 (48.6%)
+# Gaps:          18/37 (48.6%)
+# Score: 48.5
+# 
+#
+#=======================================
+
+bna-miR167b-5      1 UGAAGCUGCCAG----------CA------UGAUCUU     21
+                     :.||||:  |||          ||      :||:|::
+134092926        175 TCAAGCT--CAGATCTACTTCACAACTCTTTGATCTT    209
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: bna-miR167b-5
+# 2: 110813045
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 37
+# Identity:      12/37 (32.4%)
+# Similarity:    18/37 (48.6%)
+# Gaps:          18/37 (48.6%)
+# Score: 48.5
+# 
+#
+#=======================================
+
+bna-miR167b-5      1 UGAAGCUGCCAG----------CA------UGAUCUU     21
+                     :.||||:  |||          ||      :||:|::
+110813045        145 TCAAGCT--CAGATCTACTTCACAACTCTTTGATCTT    179
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: bna-miR167b-5
+# 2: 378266186
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 37
+# Identity:      12/37 (32.4%)
+# Similarity:    18/37 (48.6%)
+# Gaps:          18/37 (48.6%)
+# Score: 48.5
+# 
+#
+#=======================================
+
+bna-miR167b-5      1 UGAAGCUGCCAG----------CA------UGAUCUU     21
+                     :.||||:  |||          ||      :||:|::
+378266186         47 TCAAGCT--CAGATCTACTTCACAACTCTTTGATCTT     81
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: bna-miR167b-5
+# 2: 378267726
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 37
+# Identity:      12/37 (32.4%)
+# Similarity:    18/37 (48.6%)
+# Gaps:          18/37 (48.6%)
+# Score: 48.5
+# 
+#
+#=======================================
+
+bna-miR167b-5      1 UGAAGCUGCCAG----------CA------UGAUCUU     21
+                     :.||||:  |||          ||      :||:|::
+378267726         50 TCAAGCT--CAGATCTACTTCACAACTCTTTGATCTT     84
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: bna-miR167b-5
+# 2: 110813026
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 22
+# Identity:      16/22 (72.7%)
+# Similarity:    22/22 (100.0%)
+# Gaps:           0/22 ( 0.0%)
+# Score: 110.0
+# 
+#
+#=======================================
+
+bna-miR167b-5      1 UGAAGCUGCCAGCAUGAUCUUA     22
+                     :|||||:|||||||:||:|::|
+110813026        126 TGAAGCTGCCAGCATGATCTTA    147
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: bna-miR167b-5
+# 2: 207407268
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 22
+# Identity:      14/22 (63.6%)
+# Similarity:    19/22 (86.4%)
+# Gaps:           1/22 ( 4.5%)
+# Score: 77.0
+# 
+#
+#=======================================
+
+bna-miR167b-5      1 UGAAGCUGCCAGCAUGAUCUUA     22
+                     :|||.|:|||| ||:||:|:.|
+207407268        230 TGAAACTGCCA-CATGATCTGA    250
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: bna-miR167b-5
+# 2: 225613229
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 22
+# Identity:      16/22 (72.7%)
+# Similarity:    22/22 (100.0%)
+# Gaps:           0/22 ( 0.0%)
+# Score: 110.0
+# 
+#
+#=======================================
+
+bna-miR167b-5      1 UGAAGCUGCCAGCAUGAUCUUA     22
+                     :|||||:|||||||:||:|::|
+225613229        126 TGAAGCTGCCAGCATGATCTTA    147
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: bna-miR167b-5
+# 2: 729114929
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 22
+# Identity:      16/22 (72.7%)
+# Similarity:    22/22 (100.0%)
+# Gaps:           0/22 ( 0.0%)
+# Score: 110.0
+# 
+#
+#=======================================
+
+bna-miR167b-5      1 UGAAGCUGCCAGCAUGAUCUUA     22
+                     :|||||:|||||||:||:|::|
+729114929        132 TGAAGCTGCCAGCATGATCTTA    153
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: bna-miR167b-5
+# 2: 72201540
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 22
+# Identity:       9/22 (40.9%)
+# Similarity:    15/22 (68.2%)
+# Gaps:           3/22 (13.6%)
+# Score: 38.5
+# 
+#
+#=======================================
+
+bna-miR167b-5      1 UGAAGCUGCCAGCAUG-AUCUU     21
+                     :||.|.:|  ||.|:| |:.::
+72201540         261 TGATGTTG--AGAATGTATATT    280
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: bna-miR167b-5
+# 2: 729081722
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 27
+# Identity:      12/27 (44.4%)
+# Similarity:    17/27 (63.0%)
+# Gaps:           9/27 (33.3%)
+# Score: 29.0
+# 
+#
+#=======================================
+
+bna-miR167b-5      3 AAGCUGCCA-GCAU----GA-UC-UUA     22
+                     ||.|:  || |||:    || :| ::|
+729081722         28 AAACT--CAGGCATCTGAGAGTCGTTA     52
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: bna-miR167b-5
+# 2: 72201432
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 21
+# Identity:      10/21 (47.6%)
+# Similarity:    14/21 (66.7%)
+# Gaps:           2/21 ( 9.5%)
+# Score: 39.5
+# 
+#
+#=======================================
+
+bna-miR167b-5      2 GAAGCUGCCAGCAUGAUCUUA     22
+                     ||.|.:.||  ||:|.:|:.|
+72201432         159 GAGGGTCCC--CATGTTCTCA    177
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: bna-miR167b-5
+# 2: 729118108
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 21
+# Identity:      10/21 (47.6%)
+# Similarity:    14/21 (66.7%)
+# Gaps:           2/21 ( 9.5%)
+# Score: 39.5
+# 
+#
+#=======================================
+
+bna-miR167b-5      2 GAAGCUGCCAGCAUGAUCUUA     22
+                     ||.|.:.||  ||:|.:|:.|
+729118108         93 GAGGGTCCC--CATGTTCTCA    111
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: bna-miR167b-5
+# 2: 378269414
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 21
+# Identity:      10/21 (47.6%)
+# Similarity:    14/21 (66.7%)
+# Gaps:           2/21 ( 9.5%)
+# Score: 39.5
+# 
+#
+#=======================================
+
+bna-miR167b-5      2 GAAGCUGCCAGCAUGAUCUUA     22
+                     ||.|.:.||  ||:|.:|:.|
+378269414        129 GAGGGTCCC--CATGTTCTCA    147
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: bna-miR167b-5
+# 2: 378269667
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 37
+# Identity:      12/37 (32.4%)
+# Similarity:    18/37 (48.6%)
+# Gaps:          16/37 (43.2%)
+# Score: 41.5
+# 
+#
+#=======================================
+
+bna-miR167b-5      1 UGAAGCUGCC---------AGCA------UGAUCUUA     22
+                     :|.| |:|||         |.||      :||:.::|
+378269667         23 TGCA-CTGCCGCCTCGTAAATCACTACTGTGATGTTA     58
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: bna-miR167b-5
+# 2: 378270347
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 21
+# Identity:      10/21 (47.6%)
+# Similarity:    14/21 (66.7%)
+# Gaps:           2/21 ( 9.5%)
+# Score: 39.5
+# 
+#
+#=======================================
+
+bna-miR167b-5      2 GAAGCUGCCAGCAUGAUCUUA     22
+                     ||.|.:.||  ||:|.:|:.|
+378270347        148 GAGGGTCCC--CATGTTCTCA    166
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: bna-miR167b-5
+# 2: 378270689
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 22
+# Identity:       9/22 (40.9%)
+# Similarity:    14/22 (63.6%)
+# Gaps:           4/22 (18.2%)
+# Score: 33.0
+# 
+#
+#=======================================
+
+bna-miR167b-5      1 UGAAGCUGCCAGCAUGAUCUUA     22
+                     :.||||  ||  ..:||:.::|
+378270689         13 TTAAGC--CC--GTTGATATTA     30
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: bna-miR167b-5
+# 2: 339671875
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 37
+# Identity:      12/37 (32.4%)
+# Similarity:    18/37 (48.6%)
+# Gaps:          16/37 (43.2%)
+# Score: 41.5
+# 
+#
+#=======================================
+
+bna-miR167b-5      1 UGAAGCUGCC---------AGCA------UGAUCUUA     22
+                     :|.| |:|||         |.||      :||:.::|
+339671875        105 TGCA-CTGCCGCCTCGTAAATCACTACTGTGATGTTA    140
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: bna-miR167b-5
+# 2: 339679147
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 37
+# Identity:      12/37 (32.4%)
+# Similarity:    18/37 (48.6%)
+# Gaps:          16/37 (43.2%)
+# Score: 41.5
+# 
+#
+#=======================================
+
+bna-miR167b-5      1 UGAAGCUGCC---------AGCA------UGAUCUUA     22
+                     :|.| |:|||         |.||      :||:.::|
+339679147        105 TGCA-CTGCCGCCTCGTAAATCACTACTGTGATGTTA    140
+
+
+#---------------------------------------
+#---------------------------------------
